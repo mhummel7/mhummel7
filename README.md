@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mhummel7
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C
