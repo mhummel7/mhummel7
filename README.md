@@ -1,5 +1,6 @@
 Hi, I’m Manuel Hummel
-I’m currently learning C at [42 Heilbronn](https://www.42heilbronn.de/) in Heilbronn, Germany
+I’m currently learning ![C-00599C](https://github.com/user-attachments/assets/5b457cf4-6051-46c8-b2fc-2a6b2d79e8e1)
+ at [42 Heilbronn](https://www.42heilbronn.de/) in Heilbronn, Germany
 
   About me:
   - I'm German
