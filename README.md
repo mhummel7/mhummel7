@@ -16,8 +16,8 @@ You can reach me at: manuelhummel65@gmail.com
 
 
 
-![Intel-Core_i7_13700K](https://github.com/user-attachments/assets/00039a1f-4e69-41ea-a8d9-827699f26110)
-![NVIDIA-RTX4090](https://github.com/user-attachments/assets/aa4e551a-3531-4294-a2fc-f3c637c37b7c)
+[![Intel-Core_i7_13700K](https://github.com/user-attachments/assets/00039a1f-4e69-41ea-a8d9-827699f26110)](https://www.intel.com/content/www/us/en/products/sku/230500/intel-core-i713700k-processor-30m-cache-up-to-5-40-ghz/specifications.html)
+[![NVIDIA-RTX4090](https://github.com/user-attachments/assets/aa4e551a-3531-4294-a2fc-f3c637c37b7c)](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx4090-o24g-white-model/)
 
-![Apple-MacBook_Air_2024](https://github.com/user-attachments/assets/48d63ce7-5501-458a-9f1f-e5077de9e3ce)
+[![Apple-MacBook_Air_2024](https://github.com/user-attachments/assets/48d63ce7-5501-458a-9f1f-e5077de9e3ce)](https://www.apple.com/macbook-air/)
 
