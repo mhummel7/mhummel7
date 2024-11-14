@@ -5,15 +5,13 @@ I’m currently learning C at at [42 Heilbronn](https://www.42heilbronn.de/) in 
   - I'm German
   - I'm 22 years old
 
-test
-
 You can reach me at: manuelhummel65@gmail.com
 
 [![GMAIL](https://github.com/user-attachments/assets/4b54aa3d-d684-44cc-91e6-f8040b0c8a0f)](mailto:manuelhummel65@gmail.com)
 ![C](https://github.com/user-attachments/assets/5b457cf4-6051-46c8-b2fc-2a6b2d79e8e1)
 ![C++](https://github.com/user-attachments/assets/95503deb-a8a8-435e-91e5-024211b376ab)
 ![Git](https://github.com/user-attachments/assets/a0ee9bc0-4caa-4fd0-a05b-b1595b6d96d5)
-[![GitHub](https://github.com/user-attachments/assets/311fde61-80f3-4752-8e27-3462c1f1b3de)]((https://github.com/mhummel7))
+[![GitHub](https://github.com/user-attachments/assets/311fde61-80f3-4752-8e27-3462c1f1b3de)](https://github.com/mhummel7)
 
 
 
