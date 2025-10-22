@@ -5,7 +5,7 @@ I’m currently studying at [42 Heilbronn](https://www.42heilbronn.de/) in Heilb
 
 ### 🚀 About Me
   - I'm German 🇩🇪
-  - I'm 22 years old
+  - I'm 23 years old
 
 
 
